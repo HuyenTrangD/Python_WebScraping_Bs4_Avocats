@@ -1,12 +1,12 @@
 # WebScraping avec BeautifulSoup
 
 ## Description
-_Autrice_ : Trang DO
+__Auteur__ : Trang DO
 
-_Date de création_ : 2023-08-26
+__Date de création__ : 2023-08-26
 
-_Objectif_ : Récupérer les informations des différends avocats (le nom, prénom, adresse, email, téléphone) sur les 50 premières pages du siteweb grâce à la bibliothèque BeautifulSoup. 
-S'il y des informations sont manquantes, il faut les remplacer par 'Introuvable'. Une fois les informations récupérer, il faudra les enregistrer au format CSV.
+__Présentation__ : L'objectif est de récupérer les informations des avocats (nom, prénom, adresse, email, téléphone) sur les 50 premières pages du siteweb grâce à BeautifulSoup. 
+En cas de manque d'informations, remplacez par 'Introuvable'. Une fois les informations récupérées, enregistrez-les au format CSV.
 
 ## Prérequis
 - Python
